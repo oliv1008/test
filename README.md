@@ -51,6 +51,10 @@ Done!
 * 25/02/16:
 	* Setup of the finished project on GitHub.
 
+## Test
+
+Ceci est un test de GitControl pour Godot
+
 ## License:
 
 MIT License.
