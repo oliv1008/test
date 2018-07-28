@@ -13,6 +13,9 @@ func _ready():
 	# Called every time the node is added to the scene.
 	# Initialization here
 	pass
+	
+func test():
+	pass
 
 func load_main_menu():
 	var root = get_tree().get_root()
